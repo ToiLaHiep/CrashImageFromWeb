@@ -1,0 +1,15 @@
+{
+  "name": "downimagebypuppeteer",
+  "version": "1.0.0",
+  "description": "Tai anh Man Tien",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DummiesGuy",
+  "license": "ISC",
+  "dependencies": {
+    "image-downloader": "^3.3.0",
+    "puppeteer": "^1.1.0"
+  }
+}
